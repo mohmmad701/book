@@ -1,0 +1,36 @@
+/*تغيير لون  header*/
+ header{
+   background-color: #fdca40;
+ }
+ /*تغيير learnc#*/
+ h1{
+   text-align: center;
+   color: orangered;
+ }
+ nav a {
+   font-size: 20px;
+   color: blue;
+   display: inline;
+   margin: 10px;
+ }
+ footer{
+   text-align: center;
+ }
+ #first_P{
+  color: #fb3640;
+}
+main article h4{
+  
+  text-align: center;
+  color: blue;
+  background: orangered;
+  font-size: 20px;
+}
+main article img{
+   width:100%;
+   opacity: 1;
+}
+.restof_p{
+   font-size: 20px;
+  color:#542e71 ;
+}

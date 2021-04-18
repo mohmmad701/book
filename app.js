@@ -20,7 +20,7 @@ else {
 }
 */
 // 1. the user set the level inside the prompt
-var theperson=prompt('enter your level please');
+/*var theperson=prompt('enter your level please');
 
 // 2. validate about the input level 1.
 while (theperson!=='baby' && theperson!=='student' && theperson !=='developer')
@@ -54,4 +54,26 @@ for(var i=0;i<numofimage;i++)
   document.write(choosepic);
 
 }
+*/
+function avarg()
+{
+  var inputnumber=prompt('plase enter your number');
+  if(inputnumber<50)
+  {
+    alert('you are fail');
+     document.write('<a href="https://www.annahar.com/ContentFilesArchive/167841Image1.jpg?version=1011038">click me you are fail </a>');
+  }
+  else if  (inputnumber>=50)
+  { alert('you are pass');
+     document.write('<a href="https://img.youm7.com/large/S920131484354.jpg"> click me you are pass</a>');
+  }
+  else {
+    alert('try agin');
+  }
+ 
+  
+  
+
+}
+ avarg();
 
