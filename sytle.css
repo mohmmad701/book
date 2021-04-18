@@ -1,3 +1,6 @@
+body{
+  background-color: gray;
+}
 /*تغيير لون  header*/
  header{
    background-color: #fdca40;
@@ -27,10 +30,11 @@ main article h4{
   font-size: 20px;
 }
 main article img{
-   width:100%;
-   opacity: 1;
+   width:50%;
+   opacity: 0.70;
+   height: 80%;
 }
 .restof_p{
    font-size: 20px;
-  color:#542e71 ;
+  color:#8ecc1b ;
 }
